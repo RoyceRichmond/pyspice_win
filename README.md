@@ -25,5 +25,5 @@ An example of libraries installation (with the command needed for the installati
 conda activate ngspice
 pip install tqdm engineering-notation
 ```
-
+for reference for a small library for Skywater130 https://github.com/ral298/skywater-pdk-libs-sky130_fd_pr
 
