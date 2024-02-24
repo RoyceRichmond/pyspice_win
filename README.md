@@ -17,4 +17,13 @@ this code has the following impact
 1. activate the virtual environment (enter into this environment to make modifycations)
 1. get PySpice on Anaconda
 
-this is about it.
+this is about it, this will act as a new installation of python, any new libraries for python should be installed through the Anaconda prompt terminal and activating the environment
+
+An example of libraries installation (with the command needed for the installation) can be seen next
+
+```
+conda activate ngspice
+pip install tqdm engineering-notation
+```
+
+
