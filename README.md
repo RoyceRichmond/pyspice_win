@@ -11,6 +11,7 @@ Once you are on anaconda prompt terminal enter the following instructions
 conda create --name ngspice python=3.9
 conda activate ngspice
 conda install -c conda-forge pyspice
+conda install -c conda-forge ngspice ngspice-lib
 ```
 this code has the following impact
 1. Create a new virtual environment named "ngspice" with the latest version of python 3.9
